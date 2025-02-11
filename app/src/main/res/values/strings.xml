@@ -6,4 +6,5 @@
     <string name="txt_Restar">Restar</string>
     <string name="txt_Calcular">Calcular</string>
     <string name="txt_Resultado">Resultado</string>
+    <string name="mensaje">"Selecciona una opción \ny llena los \ncampos"</string>
 </resources>
